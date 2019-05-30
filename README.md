@@ -1,2 +1,2 @@
 # Project1_Repository
-This is samp
+This is sample repository
